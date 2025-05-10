@@ -1,4 +1,4 @@
 create Table students (
     name varchar(20),
-    st
+    stu_id int (10),
 )
