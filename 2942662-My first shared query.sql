@@ -11,6 +11,6 @@ VALUES
 select*from student;
 
 delete from student
-where name = '';
+where name = 'alice';
 
 -- drop table students;
