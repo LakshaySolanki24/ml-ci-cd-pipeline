@@ -1,6 +1,6 @@
--- show databases;
--- use sequal;
+show databases;
+use sequal;
 show tables;
--- select*from student;
+select*from student;
 
--- drop table students;
+drop table students;
