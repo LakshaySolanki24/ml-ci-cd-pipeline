@@ -6,7 +6,7 @@ INSERT into student(st_id,name,major)
 VALUES
 (7,'alice','mathematic'),
 (8,'Bob','QuantmPhysics'),
-(9,'Charlie','')
+(9,'Charlie','Finance');
 
 
 -- drop table students;
