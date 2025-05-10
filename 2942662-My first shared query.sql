@@ -10,4 +10,7 @@ VALUES
 
 select*from student;
 
+delete*from student
+
+
 -- drop table students;
