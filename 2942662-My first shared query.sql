@@ -4,7 +4,7 @@ use sequal;
 show tables;
 INSERT into student(st_id,name,major)
 VALUES(
-    7
+    7,'alice',
 )
 
 -- drop table students;
