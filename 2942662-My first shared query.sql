@@ -9,9 +9,9 @@
 -- (,'Charlie','Finance');
 
 
-select*from student;
+-- select*from student;
 
 -- delete from student
--- where st_id = '';
+-- where st_id = '1';
 
 -- drop table students;
