@@ -8,6 +8,6 @@ VALUES
 (8,'Bob','QuantmPhysics'),
 (9,'Charlie','Finance');
 
-select*fr
+select*from student;
 
 -- drop table students;
