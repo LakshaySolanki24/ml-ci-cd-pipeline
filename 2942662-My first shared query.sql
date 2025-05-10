@@ -8,6 +8,7 @@ VALUES
 -- (,'Bob','QuantmPhysics'),
 -- (,'Charlie','Finance');
 (1'Jack','Biology');
+
 select*from student;
 
 -- delete from student
