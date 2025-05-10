@@ -3,11 +3,11 @@
 -- use sequal;
 -- show tables;
 INSERT into student(st_id,name,major)
-VALUES
+VALUES('Jack','Biology');
 -- (,'alice','mathematic'),
 -- (,'Bob','QuantmPhysics'),
 -- (,'Charlie','Finance');
-(1'Jack','Biology');
+
 
 select*from student;
 
