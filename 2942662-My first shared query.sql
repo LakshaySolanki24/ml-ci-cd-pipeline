@@ -1,2 +1,3 @@
 show databases;
-use sequal
+use sequal;
+show tables;
