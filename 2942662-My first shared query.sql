@@ -10,7 +10,7 @@ VALUES
 
 select*from student;
 
-delete*from student
+delete from student
 where st_id = 11
 
 -- drop table students;
