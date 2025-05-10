@@ -1,7 +1,7 @@
 show databases;
 
-use sequal;
-show tables;
-select*from student;
+-- use sequal;
+-- show tables;
+-- select*from student;
 
-drop table students;
+-- drop table students;
