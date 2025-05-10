@@ -2,6 +2,6 @@ show databases;
 
 use sequal;
 show tables;
-Ins
+INSERT into student
 
 -- drop table students;
