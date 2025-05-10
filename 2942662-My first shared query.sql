@@ -1,3 +1,4 @@
 create Table students (
-    name varchar
+    name varchar(20),
+    st
 )
