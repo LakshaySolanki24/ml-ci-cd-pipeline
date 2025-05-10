@@ -3,7 +3,7 @@
 -- use sequal;
 -- show tables;
 INSERT into student(st_id,name,major)
-VALUES('Jack','Biology');
+VALUES(1,'Jack','Biology');
 -- (,'alice','mathematic'),
 -- (,'Bob','QuantmPhysics'),
 -- (,'Charlie','Finance');
