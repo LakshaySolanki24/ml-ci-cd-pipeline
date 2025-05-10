@@ -1,1 +1,3 @@
-create Table students;
+create Table students (
+    
+)
