@@ -2,7 +2,7 @@
 
 -- use sequal;
 -- show tables;
-INSERT into student(st_id,name,major)
+INSERT into student(st_id,name,major,score)
 VALUES(1,'Jack','Biology');
 -- (,'alice','mathematic'),
 -- (,'Bob','QuantmPhysics'),
